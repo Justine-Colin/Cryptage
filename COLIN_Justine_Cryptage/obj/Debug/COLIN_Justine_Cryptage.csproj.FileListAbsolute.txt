@@ -1,0 +1,10 @@
+c:\users\juju_\source\repos\COLIN_Justine_Cryptage\COLIN_Justine_Cryptage\bin\Debug\COLIN_Justine_Cryptage.exe.config
+c:\users\juju_\source\repos\COLIN_Justine_Cryptage\COLIN_Justine_Cryptage\bin\Debug\COLIN_Justine_Cryptage.exe
+c:\users\juju_\source\repos\COLIN_Justine_Cryptage\COLIN_Justine_Cryptage\bin\Debug\COLIN_Justine_Cryptage.pdb
+c:\users\juju_\source\repos\COLIN_Justine_Cryptage\COLIN_Justine_Cryptage\obj\Debug\COLIN_Justine_Cryptage.csprojResolveAssemblyReference.cache
+c:\users\juju_\source\repos\COLIN_Justine_Cryptage\COLIN_Justine_Cryptage\obj\Debug\COLIN_Justine_Cryptage.csproj.CoreCompileInputs.cache
+c:\users\juju_\source\repos\COLIN_Justine_Cryptage\COLIN_Justine_Cryptage\obj\Debug\COLIN_Justine_Cryptage.exe
+c:\users\juju_\source\repos\COLIN_Justine_Cryptage\COLIN_Justine_Cryptage\obj\Debug\COLIN_Justine_Cryptage.pdb
+c:\users\juju_\source\repos\COLIN_Justine_Cryptage\COLIN_Justine_Cryptage\obj\Debug\COLIN_Justine_Cryptage.Form1.resources
+c:\users\juju_\source\repos\COLIN_Justine_Cryptage\COLIN_Justine_Cryptage\obj\Debug\COLIN_Justine_Cryptage.csproj.GenerateResource.Cache
+C:\Users\juju_\source\repos\COLIN_Justine_Cryptage\COLIN_Justine_Cryptage\obj\Debug\COLIN_Justine_Cryptage.Properties.Resources.resources
